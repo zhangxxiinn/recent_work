@@ -7,12 +7,17 @@ Code: https://github.com/fanshaoze/RL-AL-for-Power-Converter-Design
 
 ## 2025
 
-- **[Paper Title](link_to_paper)** – Short description  
+- **[Paper Title](link_to_paper)** – Short description
   [Code](link_to_code) | [ArXiv](link) | [Project Page](link)
 
 ## 2024
 
-- **[Title](link)** – Description  
+- **[Title](link)** – Description
   [Code](link) | [Conference](link)
 
+## 2021
 
+- **[From Specification to Topology: Automatic Power Converter Design via Reinforcement Learning](https://shunzh.github.io/pdfs/fan-iccad-2021.pdf)** – Description
+  [Code](link) | [ICCAD](link)
+
+From Specification to Topology: Automatic Power Converter Design via Reinforcement Learning
