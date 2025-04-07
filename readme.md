@@ -1,24 +1,39 @@
 
-ICCAD 2021 paper: https://shunzh.github.io/pdfs/fan-iccad-2021.pdf
-Code: https://github.com/fanshaoze/RL-AL-for-Power-Converter-Design
-
-
-# Research Papers & Code
+# Research Papers
 
 ## 2025
 
-- **[Paper Title](link_to_paper)** – Short description
-  [Code](link_to_code) | [ArXiv](link) | [Project Page](link)
+- **[LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits](https://arxiv.org/abs/2411.12930)** 
+  – LLM plus BO for improved circuit design optimization
+  - [DAC](https://www.dac.com/)
+
+- **[DiffChip: Thermally Aware Chip Placement with Automatic Differentiation](https://arxiv.org/abs/2502.16633)** 
+  – Thermal analysis and placement of chiplets
+  - [ECTC](https://www.ectc.net/)
 
 ## 2024
 
-- **[Title](link)** – Description
-  [Code](link) | [Conference](link)
+- **[Graph-Transformer-based Surrogate Model for Accelerated Converter Circuit Topology Design](https://dl.acm.org/doi/pdf/10.1145/3649329.3656258)** 
+  – Graph-transformer-based circuit model
+  - [DAC](https://www.dac.com/)
 
-- **[CircuitSynth: Leveraging Large Language Models for Circuit Topology Synthesis](https://arxiv.org/pdf/2407.10977)** – LLM for circuit topology generation
-  - [Code](link) | [IEEE LLM Aided Design Workshop (LAD)](https://www.islad.org/)
+
+- **[CircuitSynth: Leveraging Large Language Models for Circuit Topology Synthesis](https://arxiv.org/pdf/2407.10977)** 
+  – LLM for circuit topology generation
+  - [IEEE LLM Aided Design Workshop (LAD)](https://www.islad.org/)
+
+- **[Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications](https://arxiv.org/abs/2502.04384)** 
+  – LLM for physical design generation
+  - [NeurIPS workshop](https://neurips.cc/)
+
+## 2023
+
+- **[LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits](https://arxiv.org/pdf/2407.18269)** 
+  – LLM for circuit topology generation
+  - [ICML](https://icml.cc/)
 
 ## 2021
 
-- **[From Specification to Topology: Automatic Power Converter Design via Reinforcement Learning](https://shunzh.github.io/pdfs/fan-iccad-2021.pdf)** – Description
+- **[From Specification to Topology: Automatic Power Converter Design via Reinforcement Learning](https://shunzh.github.io/pdfs/fan-iccad-2021.pdf)** 
+  – Circuit design space exploration
   - [Code](https://github.com/fanshaoze/RL-AL-for-Power-Converter-Design) | [ICCAD](https://2025.iccad.com/)
