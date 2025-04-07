@@ -23,11 +23,11 @@
 
 - **[Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications](https://arxiv.org/abs/2502.04384)** 
   - LLM for physical design generation
-  - [NeurIPS 2024 workshop](https://neurips.cc/)
+  - [NeurIPS'24 workshop](https://neurips.cc/)
 
 - **[LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits](https://arxiv.org/pdf/2407.18269)** 
   - LLM for circuit topology generation
-  - [ICML2024](https://icml.cc/)
+  - [ICML'24](https://icml.cc/)
 
 ## 2021
 
