@@ -1,6 +1,14 @@
 
 # My Recent Papers on AI for Circuit Design
 
+## New: Two papers accepted by ICML 2025!
+
+- LaMAGIC2: Advanced Circuit Formulations for Language Model-Based Analog Topology Generation
+  - LLM for circuit topology generation
+
+- AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation
+  - Instruction tuning LLM with RL refinement
+
 ## 2025
 
 - **[LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits](https://arxiv.org/abs/2411.12930)** 
@@ -10,6 +18,10 @@
 - **[DiffChip: Thermally Aware Chip Placement with Automatic Differentiation](https://arxiv.org/abs/2502.16633)** 
   - Thermal analysis and placement of chiplets
   - [ECTC'25](https://www.ectc.net/)
+
+- Efficient Circuit Performance Prediction Using Machine Learning: From Schematic to Layout and Silicon Measurement with Minimal Data Input 
+  - Data-driven ML framework for cross-domain (schematic, layout, measurement) circuit performance prediction
+  - [ISCAS'25](https://2025.ieee-iscas.org/)
 
 ## 2024
 
