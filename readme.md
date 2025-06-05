@@ -15,13 +15,17 @@
   - LLM plus BO for improved circuit design optimization
   - [DAC'25](https://www.dac.com/)
 
-- **[DiffChip: Thermally Aware Chip Placement with Automatic Differentiation](https://arxiv.org/abs/2502.16633)** 
-  - Thermal analysis and placement of chiplets
-  - [ECTC'25](https://www.ectc.net/)
+- **[Semiconductor SEM Image Defect Classification Using Supervised and Semi-Supervised Learning with Vision Transformers](https://arxiv.org/abs/2506.03345)** 
+  - Vision transformer (ViT) for automatic defect classification (ADC) of scanning electron microscope (SEM) images of wafer defects
+  - [ASMC'25](https://www.semi.org/en/connect/events/advanced-semiconductor-manufacturing-conference-asmc)
 
 - Efficient Circuit Performance Prediction Using Machine Learning: From Schematic to Layout and Silicon Measurement with Minimal Data Input 
   - Data-driven ML framework for cross-domain (schematic, layout, measurement) circuit performance prediction
   - [ISCAS'25](https://2025.ieee-iscas.org/)
+
+- **[DiffChip: Thermally Aware Chip Placement with Automatic Differentiation](https://arxiv.org/abs/2502.16633)** 
+  - Thermal analysis and placement of chiplets
+  - [ECTC'25](https://www.ectc.net/)
 
 ## 2024
 
