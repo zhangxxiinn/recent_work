@@ -5,9 +5,11 @@
 
 - LaMAGIC2: Advanced Circuit Formulations for Language Model-Based Analog Topology Generation
   - LLM for circuit topology generation
+  - [ICML'25](https://icml.cc/)
 
 - **[AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation](https://arxiv.org/abs/2506.03122)**
   - Instruction tuning LLM with RL refinement
+  - [ICML'25](https://icml.cc/)
 
 ## 2025
 
