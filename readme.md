@@ -3,7 +3,7 @@
 
 ## New: Two papers accepted by ICML 2025!
 
-- LaMAGIC2: Advanced Circuit Formulations for Language Model-Based Analog Topology Generation
+- **[LaMAGIC2: Advanced Circuit Formulations for Language Model-Based Analog Topology Generation](https://arxiv.org/abs/2506.10235v1)**
   - LLM for circuit topology generation
   - [ICML'25](https://icml.cc/)
 
