@@ -21,7 +21,7 @@
   - Vision transformer (ViT) for automatic defect classification (ADC) of scanning electron microscope (SEM) images of wafer defects
   - [ASMC'25](https://www.semi.org/en/connect/events/advanced-semiconductor-manufacturing-conference-asmc)
 
-- **[Efficient Circuit Performance Prediction Using Machine Learning: From Schematic to Layout and Silicon Measurement with Minimal Data Input](https://ieeexplore.ieee.org/document/11114348)**
+- Efficient Circuit Performance Prediction Using Machine Learning: From Schematic to Layout and Silicon Measurement with Minimal Data Input **[ISCAS](https://ieeexplore.ieee.org/document/11044054)** **[TCAS-I](https://ieeexplore.ieee.org/document/11114348)**
   - Data-driven ML framework for cross-domain (schematic, layout, measurement) circuit performance prediction
   - [ISCAS'25](https://2025.ieee-iscas.org/), TCAS-I
 
