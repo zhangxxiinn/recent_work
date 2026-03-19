@@ -31,7 +31,7 @@
 
 ## 2024
 
-- **[Graph-Transformer-based Surrogate Model for Accelerated Converter Circuit Topology Design](https://dl.acm.org/doi/pdf/10.1145/3649329.3656258)** 
+- **[Graph-Transformer-based Surrogate Model for Accelerated Converter Circuit Topology Design](https://dl.acm.org/doi/10.1145/3649329.3656258)**
   - Graph-transformer-based circuit model
   - [DAC'24](https://www.dac.com/)
 
