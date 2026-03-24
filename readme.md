@@ -3,7 +3,12 @@
 
 ## A full list including traditional circuit/hardware design is here: [Google scholar](https://scholar.google.com/citations?hl=en&user=KiLiEcYAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
 
-## New: Two papers accepted by ICML 2025!
+## New: a paper is invited to DAC 2026!
+
+- **[HRL-Topo: Hierarchical Reinforcement Learning with Large Language Models for Analog Circuit Topology Synthesis](https://dac.com/2026)**
+  - invited by DAC'26
+    
+## 2025
 
 - **[LaMAGIC2: Advanced Circuit Formulations for Language Model-Based Analog Topology Generation](https://arxiv.org/abs/2506.10235v1)**
   - LLM for circuit topology generation
@@ -12,9 +17,7 @@
 - **[AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation](https://arxiv.org/abs/2506.03122)**
   - Instruction tuning LLM with RL refinement
   - [ICML'25](https://icml.cc/)
-
-## 2025
-
+  - 
 - **[LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits](https://arxiv.org/abs/2411.12930)** 
   - LLM plus BO for improved circuit design optimization
   - [DAC'25](https://www.dac.com/)
