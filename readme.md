@@ -1,7 +1,7 @@
 
 # My Recent Papers on AI for Circuit Design
 
-## A full list of my publications including traditional circuit/hardware design is here: [Google scholar](https://scholar.google.com/citations?hl=en&user=KiLiEcYAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
+## A full list including traditional circuit/hardware design is here: [Google scholar](https://scholar.google.com/citations?hl=en&user=KiLiEcYAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
 
 ## New: Two papers accepted by ICML 2025!
 
