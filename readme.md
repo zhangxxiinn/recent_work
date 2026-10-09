@@ -1,11 +1,18 @@
 
 # My Recent Papers on AI for Circuit Design
 
-## A full list including traditional circuit/hardware design is here: [Google scholar](https://scholar.google.com/citations?hl=en&user=KiLiEcYAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
+## -> A full list of publications including traditional circuit/hardware is here: [Google scholar](https://scholar.google.com/citations?hl=en&user=KiLiEcYAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
 
-## New: a paper is invited to DAC 2026!
+## New: a paper in collaboration with MIT is accepted to NeruIPS 2026!
+
+- **[SLIC: Reinforcement Fine-Tuning Small LMs for Multi-Turn Analog Circuit Optimization](https://openreview.net/forum?id=NwEmt4o0zc#discussion)**
+  - LLM for analog circuit optimization
+  - [NeurIPS'26](https://neurips.cc/)
+
+## 2026
 
 - **[HRL-Topo: Hierarchical Reinforcement Learning with Large Language Models for Analog Circuit Topology Synthesis](https://dac.com/2026)**
+  - LLM for circuit topology generation
   - invited by DAC'26
     
 ## 2025
