@@ -5,7 +5,7 @@
 
 ## New: a paper in collaboration with MIT is accepted to NeruIPS 2026!
 
-- **[SLIC: Reinforcement Fine-Tuning Small LMs for Multi-Turn Analog Circuit Optimization](https://openreview.net/forum?id=NwEmt4o0zc#discussion)**
+- **[SLIC: Reinforcement Fine-Tuning Small LMs for Multi-Turn Analog Circuit Optimization](https://neurips.cc/virtual/2026/loc/atlanta/poster/153101)**
   - LLM for analog circuit optimization
   - [NeurIPS'26](https://neurips.cc/)
 
